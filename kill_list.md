@@ -7,3 +7,4 @@ Kill List
 * Bad variable names
 * Lots of nested if statements
 * Really Long functions/methods
+* Useless variable names
